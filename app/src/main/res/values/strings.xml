@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">راق</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="welcome_message">سجل دخولك الآن ومارس التمارين!</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="password_placeholder">كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور</string>
+    <string name="login_button">سجل الدخول</string>
+    <string name="or">أو</string>
+    <string name="google_sign_in">أكمل بحساب جوجل</string>
+    <string name="no_account">ليس لديك حساب؟</string>
+    <string name="sign_up_now">أنشئ الآن</string>
+</resources>
